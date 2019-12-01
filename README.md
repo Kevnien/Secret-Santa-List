@@ -1,3 +1,14 @@
+# Secret Santa List
+
+## Description
+> Idea of this app is to provide a website for users to create groups for Secret Santa exchanges.
+
+> Each user would have a list of items that they want.
+
+> Items on a user's list can be marked as bought by another user
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
